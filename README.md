@@ -24,6 +24,8 @@ R1 : 470 ohm　抵抗
 
 R2 : 220 ohm　抵抗
 
+X1 : 20MHz 発振子
+
 CN1 : 3pin pinheader
 
 CN2 : RCAコネクタ
@@ -31,3 +33,10 @@ CN2 : RCAコネクタ
 CN3 : 3x2pin pinheader。ISPコネクタ
 
 SW1/2  : switch
+
+## Fuse bit 参考値
+EXTENDED:0xFF
+
+HIGH:0xDB
+
+LOW:0xDF

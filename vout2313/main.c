@@ -1,8 +1,8 @@
 //VIDEO OUT 32x16dot
-//for ATtiny2313 (ext. clock 20MHz)
+// for ATtiny2313 (ext. clock 20MHz)
 
 //by takuya matsubara
-// http://nicotak.com
+// https://nicotak.com
 
 // uartで受信したビットマップをTV out
 

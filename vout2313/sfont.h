@@ -1,6 +1,5 @@
 // small font
 // by takuya matsubara
-// http://nicotak.com
 
 const unsigned char smallfont[] PROGMEM ={
     0x00,0x00,0x00,    /* 0x20   */

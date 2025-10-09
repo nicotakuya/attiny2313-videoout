@@ -1,7 +1,6 @@
 //---------------------------------------------------------------------
 // vram control
 // by takuya matsubara
-// http://nicotak.com
 //---------------------------------------------------------------------
 #include <avr/io.h>
 #include <avr/pgmspace.h>
@@ -12,7 +11,6 @@
 char text_x=0;  // printf用カーソル位置
 char text_y=0;
 unsigned long vram[VRAMHEIGHT];
-
 
 
 //---------------------------------------------------------------------

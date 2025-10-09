@@ -20,9 +20,9 @@ UARTから受信したデータをビデオ信号として出力します。
 
 U1 : AVRマイコン。ATtiny2313
 
-R1 : 470 ohm
+R1 : 470 ohm　抵抗
 
-R2 : 220 ohm
+R2 : 220 ohm　抵抗
 
 CN1 : 3pin pinheader
 

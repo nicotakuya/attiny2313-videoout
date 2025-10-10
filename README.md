@@ -10,9 +10,7 @@ UARTから受信したデータをビデオ信号として出力します。
 
 ・(SW2)HEXモードがONだと、16進数2桁表示。
 
-・両方OFFだと、ビットマップモード。
-
-・ビットマップモードでは64バイトをUARTから受信すると、1画面ぶん表示します。
+・両方OFFだと、ビットマップモード。ビットマップモードでは64バイトをUARTから受信すると、1画面ぶん表示します。
 
 ・microchip Studio 7.0で作りました。
 
@@ -40,3 +38,9 @@ EXTENDED:0xFF
 HIGH:0xDB
 
 LOW:0xDF
+
+## Photo
+![Image](https://github.com/user-attachments/assets/5e0478ad-24b2-4295-9fb8-f34d813f3c2e)
+
+## 免責
+動作無保証です。自己責任で取り扱ってください。

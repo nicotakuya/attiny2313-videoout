@@ -4,7 +4,7 @@ UARTから受信したデータをビデオ信号として出力します。
 
 ・モノクロの32ｘ16ピクセルで表示します。
 
-・ボーレートが38400bps固定になっています。
+・ボーレートが38400bpsです。
 
 ・(SW1)CHRモードがONだと、キャラクタ表示。
 
@@ -39,8 +39,8 @@ HIGH:0xDB
 
 LOW:0xDF
 
-## Photo
-![Image](https://github.com/user-attachments/assets/5e0478ad-24b2-4295-9fb8-f34d813f3c2e)
+## Movie
+https://www.youtube.com/watch?v=s9zs3fSS_J8
 
 ## 免責
 動作無保証です。自己責任で取り扱ってください。
